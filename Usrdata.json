@@ -24,6 +24,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "d9dd737ae28d349d",
+        "key": "Polair5",
+        "expirydate": "31-12-2046",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
