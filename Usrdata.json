@@ -1,6 +1,6 @@
 [
     {
-        "device_id": "device123",
+        "device_id": "device1232",
         "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
@@ -26,6 +26,12 @@
     {
         "device_id": "d9dd737ae28d349d",
         "key": "Polair5",
+        "expirydate": "31-12-2046",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "621506e637e253f0",
+        "key": "Polair6",
         "expirydate": "31-12-2046",
         "Allowoffline": true
     },
