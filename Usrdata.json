@@ -30,8 +30,14 @@
         "Allowoffline": true
     },
     {
-        "device_id": "621506e637e253f0",
+        "device_id": "dc274d5b6c2d2f97",
         "key": "Polair6",
+        "expirydate": "31-12-2046",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "621506e637e253f0",
+        "key": "Polair7",
         "expirydate": "31-12-2046",
         "Allowoffline": true
     },
